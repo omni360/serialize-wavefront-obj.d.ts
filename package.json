@@ -1,5 +1,5 @@
 {
-  "name": "serialize-wavefront-obj",
+  "name": "serialize-wavefront-obj.d.ts",
   "version": "1.0.0",
   "description": "serialize wavefront obj file, the definition file for serialize-wavefront-obj",
   "main": "serialize-wavefront-obj.d.ts",
